@@ -29,9 +29,9 @@ cd .papae
 mkdir src
 cd ~
 mv -f papae /usr/local/bin 
-mv -f main.py ~/.main/src 
-mv -f main.txt ~/.main/src
-mv -f devo.txt ~/.main/src
+mv -f main.py ~/.papae/src 
+mv -f main.txt ~/.papae/src
+mv -f devo.txt ~/.papae/src
 echo -e $red
 echo "Installing ..........."
 echo -e $yellow
