@@ -1,0 +1,25 @@
+#!/bin/bash 
+
+#colours
+red='\e[1;31m'
+black='\e[1;30m'
+green='\e[1;32m'
+cayan='\e[1;36m'
+yellow='\e[1;33m'
+white='\e[1;37m'
+reset='\e[1;0m'
+echo -e $yellow
+cat ~/.papae/src/main.txt 
+echo -e $green
+echo "Hi !" $LOGNAME ". Its papae1.0 Youtube Audio and Vedio Downloader"
+echo -e $red
+cat ~/.papae/src/devo.txt 
+echo -e $yellow
+python3 ~/.papae/src/main.py 
+echo -e $red
+sleep 10
+echo "---------------------------------------------------------------"
+echo "###############################################################"
+echo "---------------------------------------------------------------"
+
+
