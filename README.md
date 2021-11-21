@@ -21,7 +21,7 @@ It's very easy to install just download *installer*
 + [Download](https://raw.githubusercontent.com/SadhukhanR/papae/main/install-linux.sh)
 <br>
 
-and open terminal and  go to the download folder where *installer* file was saved, and paste command below 
+and open terminal and root it (use <pre>su</pre> command) and  go to the download folder where *installer* file was saved, and paste command below 
 
              mv -f install-linux.sh ~; cd ~ ; chmod +x install-linux.sh;./install-linux.sh
 
