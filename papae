@@ -11,7 +11,7 @@ reset='\e[1;0m'
 echo -e $yellow
 cat /usr/local/bin/.papae/src/main.txt 
 echo -e $green
-echo "Hi !" $LOGNAME ". Its papae1.0 Youtube Audio and Vedio Downloader"
+echo "Hi !" $LOGNAME "Its papae1.0 Youtube Audio and Video Downloader"
 echo -e $red
 cat /usr/local/bin/.papae/src/devo.txt 
 echo -e $yellow
