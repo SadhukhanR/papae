@@ -18,7 +18,7 @@ Papae is free and  open source, any one can see its source and how its works. It
 Python3 or Python 3.9 (recommended)
 ## Installation
 It's very easy to install just download *installer*
-+ [Download](https://raw.githubusercontent.com/SadhukhanR/papae/main/install-linux)
++ [Download](https://raw.githubusercontent.com/SadhukhanR/papae/main/install-linux.sh)
 <br>
 
 and open terminal and  go to the download folder where *installer* file was saved, and paste command below 

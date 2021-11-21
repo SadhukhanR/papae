@@ -23,15 +23,16 @@ echo -e $yellow
 echo "========================================================"
 cat LICENSE
 echo "========================================================"
-rm -rf LICENSE 
+rm -rf LICENSE
+cd /usr/local/bin
 mkdir .papae
 cd .papae
 mkdir src
 cd ~
 mv -f papae /usr/local/bin 
-mv -f main.py ~/.papae/src 
-mv -f main.txt ~/.papae/src
-mv -f devo.txt ~/.papae/src
+mv -f main.py /usr/local/bin/.papae/src 
+mv -f main.txt /usr/local/bin/.papae/src
+mv -f devo.txt /usr/local/bin/.papae/src
 echo -e $red
 echo "Installing ..........."
 echo -e $yellow
