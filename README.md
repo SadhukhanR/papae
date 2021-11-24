@@ -35,10 +35,12 @@ To start Papae use
 ## License 
 [MIT](https://cho)
 ## Status
-Stable v 1.0
++ Stable v 1.0
++ Project Under OpenCCO
+
+<a href="https://github.com/OpenCCO"><img heigh="100px" width="100px" src="https://github.com/OpenCCO/Searchlight-Badge/blob/main/7224.png"></a>
+
+
 ## Target
 Both *Linux* and *Android*
-## Premium Devoloper
-
- [SudipC3](https://github.com/SudipC3)
 ------------------------------------------------
